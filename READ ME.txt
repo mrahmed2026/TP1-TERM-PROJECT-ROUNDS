@@ -1,0 +1,12 @@
+Notes for the person looking at the tech demo.
+
+To start my code please run the start_menu file. 
+
+For the level editor the tiles used in the panel for making a level, and the tiles in the tiles folder. Some of them are repeated, this is for ease of debugging and testing, and i will be putting other tile images in lieu of the ones that are repeated (the green ones). 
+
+Secondly, the line counter python file as the name suggests counts the number of lines in a single python file, this again was for me to just understand how many lines i have in a file that arent comments or blank lines, but rather purely lines of actual code.
+
+The 2 csv files are part of the level editor, when a level is made and saved, it is saved as a csv file, so as to be loaded back in later. 
+
+
+Thanks.
